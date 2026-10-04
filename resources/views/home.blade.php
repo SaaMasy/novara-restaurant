@@ -75,7 +75,6 @@
                         </p>
                     </div>
                 </div>
-<<<<<<< HEAD
             </div>
             <div>
                 <div>
@@ -88,14 +87,65 @@
                         tertua oleh Chef Sommelier kami.
                     </p>
                     <button>
-                        DAFTAR MENU LENGKAP 
+                        DAFTAR MENU LENGKAP
                     </button>
                 </div>
-=======
->>>>>>> 2ce5f6002c165da1c7d2e717dc31c721873ba944
             </div>
         </section>
     </main>
+    <footer>
+        <div>
+            <div>
+                <h3>NØVARA</h3>
+                <p>
+                    Karya seni gastronomi modern berakar <br>
+                    pada warisan rempah adiluhung <br>
+                    Nusantara dipadukan dengan teknik <br>
+                    kuliner Prancis klasik. 
+                </p>
+            </div>
+            <div>
+                <h3>ALAMAT &amp; LOKASI</h3>
+                <p>
+                    Jl. Teuku Umar No. 42, Menteng <br>
+                    Jakarta Pusat, DKI Jakarta 10350 <br>
+                    Indonesia.
+                </p>
+            </div>
+            <div>
+                <h3>JAM OPERASIONAL</h3>
+                <div>
+                    <p>
+                        Makan Siang <br>
+                        (Kamis - Minggu)
+                    </p>
+                    <p>
+                        12.00 - <br>
+                        15.00
+                    </p>
+                </div>
+                <div>
+                    <p>
+                        Makan Malam <br>
+                        (Selasa - Minggu)
+                    </p>
+                    <p>
+                        18.00 - <br>
+                        22.30
+                    </p>
+                </div>
+            </div>
+            <div>
+                <h3>PENGHARGAAN &amp; AKREDITASI</h3>
+                <div>
+                    <h4>MICHELIN GUIDE JAKARTA</h4>
+                    <p>Selected Distinction 2024</p>
+                    
+                </div>
+                
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
